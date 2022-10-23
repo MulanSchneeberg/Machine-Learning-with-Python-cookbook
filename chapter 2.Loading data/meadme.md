@@ -1,0 +1,2 @@
+while there are many ways to load data in the Python ecosystem, we will focus on using the pandas library’s extensive set of methods for loading external data, and using scikitlearn—an open source machine learning library in Python—for generating
+simulated data.
