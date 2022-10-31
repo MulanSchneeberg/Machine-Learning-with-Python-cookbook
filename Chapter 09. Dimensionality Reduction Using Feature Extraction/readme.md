@@ -1,0 +1,1 @@
+![](./pics/Dimensionality%20Reduction%20Using%20feature%20extraction.jpg)
